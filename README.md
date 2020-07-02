@@ -17,7 +17,8 @@
 - Textbook
 	- 教材
 
-- Note.md
-	- 期末复习笔记
+- 期末复习笔记
+	- [Note.md](https://github.com/gzn00417/2020Spring-Formal-Languages-and-Automata/blob/master/Note.md)
+	- [CSDN形式语言与自动机总结笔记](https://blog.csdn.net/gzn00417/article/details/106885612)
 
 **Power By GZN**
